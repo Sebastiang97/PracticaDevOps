@@ -1,5 +1,6 @@
 ## Practica para la celula DevOps
 
-Readme cambiado 
+Readme cambiado para realizar pull request
+
 
 
